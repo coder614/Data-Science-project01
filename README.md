@@ -1,7 +1,7 @@
 # Data-Science-project01
 
 - In this Project Extracting insights from analyzing data of an e-commerce business.
-### In this project we can visualize 7 differnt points for find insights.
+### In this project we can visualize 7 different points for find insights.
 
 1. You need to calculate the monthly sales of the store and identify which month had the highest sales and which month had the lowest sales.
 
